@@ -2,7 +2,7 @@
  * Tank Robot.cpp
  *
  * Created: 4/19/2016 11:05:36 AM
- * Author : Chris
+ * Author : Chris Calandro
 
  left direction D0
  right direction D4
